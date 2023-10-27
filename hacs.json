@@ -1,0 +1,8 @@
+{
+  "name": "YROTest",
+  "domains": ["sensor"],
+  "documentation": "https://github.com/yrobert/YROTest/README.md",
+  "issue_tracker": "https://github.com/yrobert/YROTest/issues",
+  "dependencies": [],
+  "country": ["FR"]
+}

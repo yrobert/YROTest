@@ -1,0 +1,9 @@
+{
+  "domain": "YROTest",
+  "name": "YROTest Integration",
+  "config_flow": false,
+  "documentation": "https://github.com/yrobert/test/blob/main/README.md",
+  "requirements": ["requests"],
+  "codeowners": ["@yrobert"],
+  "version": "0.1"
+}
